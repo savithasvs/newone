@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>  
-  <p style="float: left; clear: left"><img src="../images/honda.jpg"alt="honda" width="50" height="60"> </p>
-  <p>.</p>     
+<body> 
+
+  <!--<p style="float: left; clear: left"><img src="../images/honda.jpg"alt="honda" width="50" height="60"> </p>-->
+       
     <div class ="topnav"><a class="active" href="#Product">Product</a>
         <a href="#motorcycle">motorcycle</a>
         <a href="#scooter">scooter</a>
@@ -40,6 +41,9 @@
 }
 
 /* Style the links inside the navigation bar */
+body {
+  background-color:lightblue;
+}
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -105,25 +109,173 @@
   background-color: #ddd;
   color: black;
 }
+footer {
+            margin: 100px 0 0 0;
+            background:white;
+            padding: 100px 100px;
+        }
+
+        footer .main-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            padding: 20px 30px;
+            list-style-type: none;
+
+        }
+
+        .main-container div h4 {
+            color: rgb(177, 41, 41);
+            font-size: 25px;
+            margin: 10px 0;
+        }
+
+        .main-container div li {
+            cursor: pointer;
+            margin: 3px 0;
+            color: black;
+        }
+
+        hr {
+            margin: 20px 0;
+            opacity: .4;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .column {
+            float: left;
+            width: 25%;
+            padding: 0 5px;
+        }
+
+        .row {
+            margin: 0 -5px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        p {
+  font-size: 25px;
+}
+
+
     </style>
     <!--<img src="../images/biker.jpg"alt="honda" width="1800" height="500">-->
+    <p style="color:blue">Honda-highness-cb350-dlxsss.<br><mark>Price: 90,000 -1,10,000</mark> <br> Model:2022 </p>
+      
     <h1>About Us</h1>
     <p>Honda Motorcycle & Scooter India Pvt. Ltd. (HMSI), the only Honda in Indian 2Wheeler industry is the 100% subsidiary of Honda Motor Company Ltd., Japan, started its Indian operations at Manesar (District Gurgaon, Haryana) in May 2001. Despite being one of the youngest players in the Indian two-wheelers market, Honda’s consistency of providing high quality products and services has won the hearts of over 48 million happy Indian customers and catapulted HMSI to become India’s 2nd largest two-wheeler company today.</p>
     <h1>New Lauching vehicle</h1>
-    <img src="../images/honda-highness-cb350-dlxsss.jpg"alt="new lauch bike" width="1000" height="500">
-    <h2> honda-highness-cb350-dlxsss. 
-      <br>
+    <img src="../images/honda-highness-cb350-dlxsss.jpg"alt="new lauch bike" width="1500" height="800">
+    <h1 style="color:black">Description</h1>
+    <p style="color:blue">Honda-highness-cb350-dlxsss.<br><mark>Price: 90,000 -1,10,000 </mark> <br> Model:2020 </p>
+    <img src="../images/download honda.jpg"alt="new lauch bike" width="1500" height="500">
+    <h1 style="color:black">Description</h1>
+    <p style="color:blue">Honda-highness-cb350-dlxsss.<br><mark>Price: 1,20000 -2,10,000</mark><br>Model:2020</p>
+      <h1 style="color:black">News</h1>
+  <p>  
+  <u1>
+    <li>Honda 2Wheelers India Launches Irresistibly Stylish Activa125 Premium Edition
+      New Delhi, December 07, 2021</li>
+      <li>Honda 2Wheelers India Expands Global Exports Footprint
+        New Delhi, December 21, 2021</li>
+  </u1>
+  </p>
+     <div> To Know more visit<a href="https://www.honda2wheelersindia.com">  honda latest updates</a> </div>
+     <h1 style="color:black">Personal Infromation</h1>
+     <form>
+      <div>
+        <label>Name</label>
+    <input name="a" placeholder="Enter your name" type="text">
+    </div>
+    <br>
+    <div>
+        <label>Location</label>
+        <input name="a" placeholder="Enter your location" type="text">
+    </div>
+    <br>
+    <div>
+      <label>Phone Number</label>
+      <input name="a" placeholder="Enter your number" type="text">
+  </div>
+  <br>
 
-       price: 90,000 -1,10,000
-       <h2>
+  <div>
+    <input type="submit" value="submit">
+  </div>
+     </form>
+     <footer class="footer">
+      <div class="main-container">
+          <div>
+              <h4>FOLLOW US</h4>
+              <li>Instagram</li>
+          
+              <li>About us</li>
+              <li>Our services</li>
+              <li>Privacy policy</li>
+          </div>
+          <div>
+              <h4>ONLINE SHOP</h4>
+              <li>Smart watch</li>
+              <li>Airpods</li>
+              <li>Power buds</li>
+              <li>Neck bands</li>
+          </div>
+          <div>
+              <h4>GET HELP</h4>
+              <li>FAQ</li>
+              <li>Shipping</li>
+              <li>Returns</li>
+              <li>Order status</li>
+          </div>
+      </div>
+      <div class="row">
+          <div class="column">
+              <div class="card">
+                  <p><i class="END"></i></p>
+                  <h3>10+</h3>
+                  <p>PRODUCTS</p>
+              </div>
+          </div>
 
-    <img src="../images/download honda.jpg"alt="new lauch bike" width="1000" height="500">
-    <h2>honda-cb330 
-      <br>
+          <div class="column">
+              <div class="card">
+                  <p><i class="END"></i></p>
+                  <h3>1000+</h3>
+                  <p>HAPPY CUSTOMERS</p>
+              </div>
+          </div>
 
-       price: 90,000 -1,10,000
-    </h2>
+          <div class="column">
+              <div class="card">
+                  <p><i class="END"></i></p>
+                  <h3>5000+</h3>
+                  <p>PRODUCT SOLD</p>
+              </div>
+          </div>
 
-     <div> To Know more visit<a href="https://www.honda2wheelersindia.com">honda latest updates</a> </div> 
+          <div class="column">
+              <div class="card">
+                  <p><i class="END"></i></p>
+                  <h3>100+</h3>
+                  <p>5 STAR RATING</p>
+              </div>
+          </div>
+      </div>
+      </footer>
+      </footer>
+      </footer>
+  </footer>
+  <!--<footer class="footer2">
+      <P>@ Copyrights 2022 boat</P>
+  </footer>-->
 </body>
 </html>
