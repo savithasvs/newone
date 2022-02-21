@@ -1,0 +1,1170 @@
+.features {
+    background: rgba(255, 255, 255, 0);
+    padding-top: 25px;
+    height: auto;
+}
+
+
+
+.carousel-control {
+    width: 2%;
+}
+
+.features .deco img {
+    max-width: 150px;
+}
+
+.carousel-caption {
+    text-align: left;
+    padding-left: 30px;
+}
+
+/*.carousel-inner .item .col-md-6:last-child {
+    border-left: 3px dotted #ddd;
+}*/
+
+.features .sl-slide-inner h2 {
+    color: #000;
+    text-shadow: 0px 0px 0px black;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: normal;
+    text-transform: capitalize;
+    text-align: left;
+    background: transparent;
+}
+
+.features .sl-slide-inner p {
+    line-height: 15px;
+    font-size: 12px;
+    color: #000;
+    text-shadow: 0px 0px 0px black;
+    margin-bottom: 8px;
+}
+
+.features .carousel-caption {
+    top: 0;
+    bottom: 0;
+}
+
+.features .carousel-caption {
+    position: relative;
+    max-width: 800px;
+    display: block;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 25px;
+    bottom: 25px;
+}
+
+.features .sl-slide-inner p {
+    line-height: 20px;
+    text-align: center;
+}
+
+.home-micro-footer .angle-view, .home-micro-footer .price, .home-micro-footer .emi-calculator, .home-micro-footer .e-brochure, .home-micro-footer .dealer-locator {
+    background-position: top;
+}
+
+.home-micro-footer ul li a span {
+    color: #000;
+}
+
+
+.about {
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 15px !important;
+    font-weight: 600;
+    font-size: 20px !important;
+    color:#fff !important;
+}
+
+
+h4 {
+    text-align: center;
+    border-top: 1px solid #000;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+p {
+    margin: 0 0 15px;
+    line-height: 20px;
+}
+
+.carousel-inner {
+    min-height: 350px;
+}
+
+.col-md-8.deco {
+    padding-top: 20px;
+}
+
+.aboutDiv {
+    padding: 0 10px;
+}
+
+.featuresDiv {
+    padding: 0 10px;
+}
+
+.enquiryDiv {
+    padding: 0 10px;
+}
+
+.micro-inquary {
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+}
+
+label {
+    color: #fff;
+}
+
+.micro-inquary {
+    border-radius: 0px;
+}
+
+    .micro-inquary button {
+        background: red;
+        color: #fff;
+        border: 1px solid #fff;
+    }
+
+.carousel-control .icon-next:before {
+    color: black;
+}
+
+.carousel-control .icon-prev:before {
+    color: black;
+}
+
+.features .sl-slide-inner h2 {
+    margin: 8px 0;
+}
+
+#features2 {
+    display: none;
+}
+
+.nav-pills > li > a {
+    color: #000;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #cc0001;
+}
+
+#specifications {
+    padding-bottom: 20px;
+}
+
+.price_tbl table tr th {
+    text-align: center;
+}
+
+.price_tbl table tr td {
+    text-align: center;
+}
+
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border: 1px solid #ddd;
+}
+
+.tab-content {
+    min-height: 300px;
+    font-size: 14px;
+}
+
+.activa125-about .macro-nav {
+    background: rgba(220, 221, 223, 1);
+}
+
+.micro-sec {
+    background: url(../../assets/images/cb200x/Home_pg-banner.jpg);
+}
+
+.macro-nav ul li:nth-child(4) a img {
+    margin-top: 10px;
+}
+
+.macro-nav ul li:last-child img {
+    margin: 10px 0px;
+}
+
+.macro-nav ul li:nth-child(6)::after, .macro-nav ul li:nth-child(7)::after {
+    content: "";
+}
+
+.macro-nav ul li a {
+    font-size: 15px;
+    padding: 0px 12px;
+    display: inline-block;
+    font-weight: 400;
+}
+
+.macro-nav ul li::after {
+    color: #8a8585;
+}
+
+.features .sl-slide-inner h2 {
+    color: white;
+    text-shadow: 3px 3px 3px black;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    background: transparent;
+}
+
+.features .sl-slide-inner p {
+    line-height: 20px;
+}
+
+.features .icon-next, .features .icon-prev {
+    font-size: 100px;
+    top: 40%;
+}
+
+.features .deco img {
+    max-width: 450px;
+    float: right;
+}
+
+.features .deco {
+    text-align: center;
+    position: relative;
+}
+
+.features {
+    background: rgba(0, 0, 0, 0);
+}
+
+.micro-about-sec .micro-title h6 {
+    color: #000;
+    margin-top: 15px;
+}
+
+.featuretxtbox {
+    -webkit-transform: skew(-25deg, 0deg);
+    transform: skew(-25deg, 0deg);
+    background-color: rgba(0,0,0,0.8);
+    padding: 25px 25px 25px 50px;
+    margin-left: -100px;
+    position: relative;
+    z-index: -1;
+    margin-top: 30px;
+    min-height: 260px;
+}
+
+    .featuretxtbox .featuretxt {
+        /*font-style: italic;*/
+        -webkit-transform: skew(0deg, 0deg);
+        transform: skew(0deg, 0deg);
+        color: #fff !important;
+        font-size: 15px !important;
+        text-align: left !important;
+        letter-spacing: 1px;
+    }
+
+/*.feature-title-upper {
+    position: absolute;
+}
+.feature-title-lower {
+    position: absolute;
+}*/
+
+.featuretxtbox-plus {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 200px;
+}
+
+.feature-title-upper {
+    text-align: left !important;
+    width: fit-content;
+    background-color: rgba(0,0,0,0.8);
+    padding: 5px 10px;
+    font-size: 16px !important;
+    margin-bottom: 0px !important;
+    -webkit-transform: skew(-25deg, 0deg);
+    transform: skew(-25deg, 0deg);
+}
+
+    .feature-title-upper p {
+        color: #fff !important;
+        margin-bottom: 0px !important;
+        font-size: 18px !important;
+    }
+
+.feature-title-lower {
+    text-align: left !important;
+    width: fit-content;
+    background-color: rgba(0,0,0,0.8);
+    padding: 5px 10px;
+    font-size: 16px !important;
+    margin-left: 40px !important;
+    -webkit-transform: skew(-25deg, 0deg);
+    transform: skew(-25deg, 0deg);
+}
+
+    .feature-title-lower p {
+        color: #fff !important;
+        margin-bottom: 0px !important;
+        font-size: 18px !important;
+    }
+
+@media only screen and (max-width: 1024px) {
+    #features2 {
+        display: block;
+        min-height: 420px;
+    }
+
+    #features {
+        display: block;
+    }
+
+    .features .sl-slide-inner p {
+        text-align: center !important;
+    }
+
+    .carousel-inner .item .col-md-6:last-child {
+        border-left: none;
+    }
+
+    .carousel-control {
+        width: 18%;
+    }
+
+    .deco {
+        text-align: center;
+    }
+
+    .features .sl-slide-inner h2 {
+        text-align: center;
+    }
+
+    .carousel-caption {
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .features .deco img {
+        max-width: 100%;
+    }
+
+    .col-md-8.deco {
+        padding-top: 0px;
+    }
+
+    .tab-content {
+        min-height: unset;
+    }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 240px) {
+
+    #cb200xfooter ul li a {
+        padding: 6px 15px !important;
+        text-align: left;
+        display: block;
+        font-size: 12px;
+        color: #fff !important;
+        text-transform: uppercase;
+    }
+    
+    .featuretxtbox {
+        -webkit-transform: skew(-25deg, 0deg);
+        transform: skew(0, 0deg);
+        background-color: rgba(0,0,0,0.8);
+        padding: 0;
+        margin-left: 0;
+        position: relative;
+        z-index: -1;
+        margin-top: 14px;
+        min-height: 355px;
+        margin-bottom: 17px;
+    }
+
+        .featuretxtbox .featuretxt {
+            position: absolute;
+            top: 114px;
+            padding: 10px;
+            font-size: 14px !important;
+            margin-top: 27px;
+        }
+
+    .features {
+        padding-top: 0;
+    }
+
+    .carousel-caption {
+        padding-top: 0;
+    }
+
+    .features .deco img {
+        max-width: 85%;
+    }
+
+    .features .carousel-caption {
+        top: 0;
+    }
+
+    .features .icon-next, .features .icon-prev {
+        font-size: 59px;
+        top: 41%;
+    }
+
+    .home-micro-footer ul li a span {
+        color: #FFF;
+    }
+
+    .macro-nav ul li a {
+        padding: 5px 12px;
+    }
+
+    .accordion-section-title::before {        
+        color: #fff;
+    }
+
+    .accordion-section-title::after {        
+        color: #fff;
+    }
+
+    .macro-nav .accordion-section-title::after {
+        color: #000;
+    }
+ .carousel-control {
+        width: 0%;
+    }
+}
+.pop-img-box {
+    position: fixed;
+    bottom: 0;
+    right: 106px;
+    width: 160px;
+    z-index: 999999;
+    display: none;
+}
+
+.pop-cross {
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.pop-img img {
+    position: relative;
+    width: 100%;
+}
+
+.cross {
+    margin-left: -10px;
+    margin-top: -6px;
+    position: absolute;
+    z-index: 999999;
+}
+
+
+/*Feature data*/
+
+
+
+
+/*Feature css end*/
+
+
+/*Specification data*/
+
+.specifications-box {
+    background: transparent;
+    display: inline-block;
+    padding: 0px;
+    border-color: transparent;
+}
+
+.specifications-hover h2 {
+    background: none repeat scroll 0 0 #cc0001;
+    color: #fff;
+    display: block !important;
+    font-weight: bold;
+    margin: 0;
+    padding: 4px 14px 6px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 18px;
+}
+
+.specifications-hover ul.tab_content {
+    padding: 0px;
+}
+
+    .specifications-hover ul.tab_content li {
+        border-top: 1px solid #ddd;
+        width: 100%;
+        float: left;
+        display: table;
+    }
+
+        .specifications-hover ul.tab_content li:nth-child(even) {
+            background: #52595e;
+        }
+
+        .specifications-hover ul.tab_content li:nth-child(odd) {
+            background: #989b9e;
+        }
+
+.micro-inquary {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+    margin-bottom: 80px;
+}
+
+    .micro-inquary label {
+        padding-top: 10px;
+        color: #fff;
+    }
+
+    .micro-inquary button {
+        background: #cc0001;
+    }
+
+.specifications-hover ul.tab_content li:nth-child(1) {
+    background: none repeat scroll 0 0 rgb(204, 0, 1);
+    text-align: center;
+    font-size: 16px;
+}
+
+.specifications-hover ul.tab_content li span {
+    color: #fff;
+    display: table-cell;
+    padding: 8px 1%;
+    vertical-align: top;
+    width: 47%;
+}
+
+    .specifications-hover ul.tab_content li span:first-child {
+        border-right: 1px solid #f2f2f2;
+    }
+
+.specifications-box ul.specifications {
+    padding: 0px;
+    border-color: transparent;
+}
+
+    .specifications-box ul.specifications li {
+        float: left;
+        width: 180px;
+        background: transparent;
+    }
+
+        .specifications-box ul.specifications li a {
+            background: #353f48;
+            border-radius: 4px;
+            border: medium none !important;
+            font-size: 14px;
+            line-height: 22px;
+            margin: 0px 10px 10px 10px;
+            display: block;
+            padding: 8px 10px;
+            color: #fff;
+            text-align: center;
+        }
+
+
+.colors .nav-tabs > li > a img {
+    height: 65px;
+    width: 89px;
+}
+
+.gallery .controls .nav > li img {
+    background: rgba(255,255,255,0.90);
+    border-color: transparent;
+}
+
+.gallery .controls {
+    width: 105px;
+}
+
+.specifications-hover {
+    position: relative;
+    overflow: hidden;
+}
+
+.body-dimensions, .engine, .transmission, .tyres-brakes, .frame-suspension, .electricals {
+    float: left;
+    width: 100%;
+    height: 352px;
+    position: absolute;
+    top: 0px;
+    max-width: 530px;
+    left: 0;
+}
+
+.specifications-active {
+    z-index: 99999;
+    position: relative;
+}
+
+.angle-view, .price, .emi-calculator, .e-brochure, .dealer-locator {
+    background-position: bottom;
+}
+
+.specifications-box ul li a.specifications-active {
+    background: none repeat scroll 0 0 #cc0001;
+    transition: all 0.3s ease 0s;
+}
+
+.micro-about-sec .micro-title h6 {
+    margin-top: 5px;
+    color: #000;
+}
+
+.specifications-box ul.specifications li a {
+    margin-left: 0;
+}
+
+/*.rotatebox .images img {
+    display: block;
+    position: absolute;
+    height: 400px;
+    background: url(../../assets/images/CBHornet160R/bg-angle.jpg);
+    top: 0;
+    left: 0;
+}*/
+
+.CBHornet160R .left-footer {
+    display: none;
+}
+
+.left-footer {
+    display: block;
+    /*float: left;*/
+    margin-left: 40px;
+}
+
+
+    .left-footer .Request-a-call {
+        background-color: rgb(216, 0, 0);
+        border-radius: 10px;
+        color: #fff;
+        padding: 10px;
+        margin-left: 0px;
+        display: inline-block;
+    }
+
+.accordion-section-title::after {
+    float: right;
+    color: #fff;
+}
+
+.micro-about-sec .right-box img {
+    margin-top: 10px;
+}
+
+.accordion-section-title::before {
+    float: right;
+    color: #fff;
+}
+
+.form-left-box {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8) !important;
+    border-radius: 0px !important;
+}
+
+    .form-left-box p {
+        color: #fff !important;
+    }
+
+.pop-img-box {
+    position: fixed;
+    bottom: 0;
+    right: 106px;
+    width: 160px;
+    z-index: 999999;
+    display: none;
+}
+
+.pop-cross {
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.pop-img img {
+    position: relative;
+    width: 100%;
+}
+
+.cross {
+    margin-left: -10px;
+    margin-top: -6px;
+    position: absolute;
+    z-index: 999999;
+}
+
+
+
+.CBHornet160R .left-footer {
+    display: none;
+}
+
+.inquri-feature-sec .unicorn-feature-thumb ul {
+    max-width: 310px;
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+}
+
+    .inquri-feature-sec .unicorn-feature-thumb ul li {
+        width: 100% !important;
+        border-radius: 4px;
+        float: left;
+        color: #000;
+        padding: 10px 5px 5px 15px;
+        cursor: pointer;
+        height: 32px;
+        border: 0px;
+        margin: 0px !important;
+    }
+
+
+        .inquri-feature-sec .unicorn-feature-thumb ul li.feature-active {
+            border-radius: 4px;
+            float: left;
+            background: #ccc;
+            background: rgb(220, 58, 34) none repeat scroll 0 0;
+            color: #fff;
+        }
+
+.inquri-feature-sec .unicorn-feature-hover {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+}
+
+    .inquri-feature-sec .unicorn-feature-hover h3, .inquri-feature-sec .unicorn-feature-hover p {
+        color: #fff;
+    }
+
+.CBHornet160R-about hr {
+    border-color: #fff;
+    border-width: 2px;
+    margin: 10px 1%;
+    display: inline-block;
+    width: 96%;
+    padding: 0px 0%;
+}
+
+.inquri-table {
+    width: 100%;
+    padding: 0px;
+}
+
+table.spacification {
+    width: 100%;
+}
+
+    table.spacification tr td:hover {
+        color: rgb(220, 58, 34);
+    }
+
+    table.spacification tr td {
+        background: rgba(0, 0, 0, 0.35);
+        color: #fff;
+        padding: 6px 15px;
+        border: 1px solid rgba(241, 219, 219, 0.65);
+    }
+
+
+h6.inquri-heading {
+    color: #000;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-bottom: 21px;
+}
+
+.macro-nav ul li::after {
+    color: #000;
+}
+
+.macro-nav ul li:last-child::after {
+    display: none;
+}
+
+.macro-nav ul li:last-child img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 160px;
+}
+
+.inquri-form {
+    background: rgba(0,0,0,0.80);
+    padding: 15px;
+    margin: 0px 15px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+    .inquri-form .form-control {
+        background: #000;
+        color: #fff;
+        margin-bottom: 15px;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .inquri-form .form-group {
+        display: inline-block;
+        float: left;
+        margin-bottom: 0;
+        vertical-align: middle;
+        width: 100%;
+    }
+
+    .inquri-form label {
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .inquri-form button {
+        background: transparent;
+        height: 36px;
+        margin: 0 0px 0 0;
+        padding: 0 10px;
+        border: none;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+        font-size: 17px;
+        font-weight: 700;
+        color: #fff;
+        border: 1px solid #898989;
+    }
+
+.color-bike {
+    font-size: 16px;
+    position: relative;
+    color: #fff;
+    float: right;
+    text-align: right;
+    padding: 8px 0px;
+}
+
+.left-footer {
+    float: left;
+}
+
+.new-360 {
+    max-width: 758px;
+}
+
+.breadcrumb > li > a {
+    text-decoration: none;
+    color: #000;
+}
+
+.micro-footer {
+    width: 100%;
+    margin-top: 60px;
+    
+    float: left;
+    background-color: rgba(0,0,0,.8);
+    padding-top: 10px;
+}
+
+.slide {
+    background: hsla(191, 88%, 32%, 0);
+    /*border: 2px solid #fff;*/
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    /*border-radius: 6px;*/
+}
+
+#CBHornet160RFeatures ul li {
+    display: inline-block;
+    margin-top: 0px;
+    min-width: 175px;
+    text-align: center;
+}
+
+#CBHornet160RFeatures .carousel-indicators1 .li-feature img {
+    opacity: .8;
+    height: 55px;
+    width: auto;
+}
+
+#CBHornet160RFeatures .carousel-indicators1 .li-feature.active img {
+    opacity: 1;
+}
+
+.macro-nav ul li:nth-child(6)::after, .macro-nav ul li:nth-child(7)::after {
+    content: "";
+}
+
+.hornet2-book-now {
+    position: absolute;
+    bottom: 140px;
+    left: 80px;
+}
+
+.features .carousel-caption {
+    max-width: 665px;
+    top: 0;
+}
+
+@media only screen and (min-width: 240px) and (max-width: 412px) {
+    .form-group #btnGetOtp {
+        padding: 0 5px;
+        position: relative;
+        margin: 0px 0px 10px 0px;
+    }
+
+    
+    .left-footer {
+        float: none;
+    }
+
+    .withStrip, .withOutStrip {
+        position: relative;
+        float: right;
+        width: 120px;
+        background-size: contain;
+        right: 5px;
+        top: 5px;
+    }
+
+    .CBHornet160R {
+        /*background: #ddd;
+        min-height: 100%;
+        padding-bottom: 60px;*/
+    }
+
+    .color-bike {
+        width: 100%;
+        text-align: left;
+    }
+
+    .colors .nav-tabs > li span {
+        top: 55px;
+    }
+
+    .mobile-micro-banner img {
+        margin-top: 0px;
+    }
+
+    .divWithOutStrip {
+        background-size: 100%;
+        width: 120px;
+    }
+
+    .macro-nav {
+        padding: 8px 0px;
+        background: rgba(165, 165, 165, .5);
+    }
+
+    .accordion-section-title::after {
+        float: right;
+        color: #000;
+    }
+
+    .micro-footer {
+        background: #000;
+        padding: 0px 0px;
+        margin-top: 0;
+    }
+
+        .micro-footer .accordion-section-title {
+            color: #fff;
+        }
+
+    .angle-view, .price, .emi-calculator, .e-brochure, .dealer-locator {
+        display: none;
+    }
+
+    .macro-nav ul li a {
+        color: #000;
+    }
+
+    .macro-nav ul li::after {
+        content: "";
+    }
+
+    .micro-footer ul {
+        margin-bottom: 0px;
+    }
+
+    .features-bg {
+        padding-bottom: 0px;
+        background: none;
+    }
+
+    /*.CBHornet160R-about {
+        display: inline-block;
+        background: url(../../assets/images/CBHornet_repsol_edition/inner-bg.jpg);
+    }*/
+
+    .micro-about-sec .txt-box {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .CBHornet160R-about {
+        padding-bottom: 0px;
+    }
+
+    .micro-about-sec .micro-title h6 {
+        color: #000;
+    }
+
+    .feature-sec {
+        border-radius: 0px;
+        background: transparent;
+    }
+
+    .macro-nav ul li a, .micro-footer ul li a {
+        font-size: 14px;
+        color: #fff;
+        padding: 8px 15px;
+        text-align: left;
+    }
+
+    .unicorn-feature-thumb {
+        display: none;
+    }
+
+    .unicorn-feature {
+        border-color: transparent;
+    }
+
+    .body-color-grab, .handle-bar-weights, .stylish-meter-console, .d3, .viscous-air-filter, .superior-performance, .gear-shift, .mono-suspension, .alloy-wheels, .premium-front {
+        position: relative;
+        display: block !important;
+        border-bottom: 1px solid #fff;
+    }
+
+    .unicorn-feature-hover h3 {
+        text-align: left;
+    }
+
+    .accessories-popup-box img {
+        max-width: 100%;
+        margin: 15px 0px 0px 0px;
+        float: none;
+    }
+
+    .unicorn-feature-hover img {
+        float: none;
+        margin: 0;
+        max-width: 100%;
+        display: block;
+    }
+
+    .for-image {
+        display: none;
+    }
+
+    .specifications-img-box, .specifications-box {
+        display: none;
+    }
+
+    .body-dimensions, .engine, .transmission, .tyres-brakes, .frame-suspension, .electricals {
+        margin: 0px 0px 20px 0px !important;
+        position: relative;
+        left: 0px;
+        height: auto;
+    }
+
+    .gallery .controls {
+        width: 100%;
+    }
+
+    .accessories-images-hide {
+        display: none;
+    }
+
+    .accessories-popup {
+        position: relative;
+    }
+
+    .accessories-popup-left, .accessories-popup-right {
+        display: none;
+    }
+
+    .accessories-popup-box {
+        display: block !important;
+        position: relative;
+        margin-bottom: 15px;
+        left: 0px;
+        text-align: center;
+        width: 100%;
+        padding: 0px;
+    }
+
+        .accessories-popup-box h3 {
+            font-size: 14px;
+        }
+
+        .accessories-popup-box ul li {
+            font-size: 12px;
+        }
+
+        .accessories-popup-box ul {
+            padding-left: 0px;
+        }
+
+    .cxx {
+        display: none;
+    }
+
+    .rotatebox .images {
+        min-height: 200px;
+        position: relative;
+    }
+
+        .rotatebox .images img {
+            max-width: 100%;
+            max-height: 210px;
+        }
+
+    .livo-feature-txt {
+        padding: 15px;
+        margin-top: 0px;
+    }
+
+    .left-footer {
+        /*display: block;
+    float: left;*/
+        margin-left: 0;
+        text-align: center;
+    }
+
+        .left-footer .Request-a-call {
+            margin-bottom: 10px;
+            display: inline-block;
+            margin-left: 0;
+            margin-top: 11px;
+        }
+
+    .macro-nav ul li, .micro-footer ul li {
+        display: block;
+        position: rel
