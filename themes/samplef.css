@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div class ="topnav"><a class="active" href="./about.html">About Me</a>
-        <a href="./samplef.html">My Project</a>
-        </div>
 
-        <img src="./src/images/computer.jpg"alt="image" width="1400" height="600">
-
-</body>
-</html>
-  <style>
     .topnav {
-      background-color: #333;
-      overflow: hidden;
+    background-color: #333;
+    overflow: hidden;
     }
     body {
       background-color:lightblue;
@@ -39,12 +22,8 @@
       background-color: #04AA6D;
       color: white;
     } 
-    
-  </style>
-        
-<style>
       .bg-img {
-      background-image: url("./src/images/computer.jpg" );
+      background-image: url("./biker.jpg" );
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -57,8 +36,8 @@
       width: auto;
     }
     .topnav {
-      background-color: #333;
       overflow: hidden;
+      background-color: #333;
     }
     .topnav a {
       color: #f2f2f2;
@@ -72,4 +51,3 @@
       background-color: #ddd;
       color: black;
     }
-  </style>
